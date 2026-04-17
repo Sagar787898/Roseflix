@@ -9,6 +9,8 @@ StreamX ek advanced, lightweight aur fully mobile-responsive entertainment platf
 
 🌐 **Live Demo:** [toolsmax.site/streamx/index.php](https://toolsmax.site/streamx/index.php)
 
+
+🌐 **Live Admin Panel Demo:** [toolsmax.site/streamx/admin.php](https://toolsmax.site/streamx/admin.php)
 ---
 
 ## 🌟 Key Features
