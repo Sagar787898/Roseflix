@@ -124,7 +124,7 @@ function b64($url) {
     </main>
 
     <footer class="text-center py-10 md:py-20 border-t border-white/5 opacity-20">
-        <p class="text-[10px] uppercase tracking-[5px] font-black">Powered by StreamX Cinema</p>
+        <p class="text-[10px] uppercase tracking-[5px] font-black">Powered by Roseflix Cinema</p>
     </footer>
 
 </body>
