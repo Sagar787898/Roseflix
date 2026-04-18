@@ -1,16 +1,16 @@
-# streamx
-> **StreamX** is a high-performance, database-less Movie &amp; Series Streaming CMS designed for speed, elegance, and a premium user experience.
+# Roseflix
+> **Roseflix** is a high-performance, database-less Movie &amp; Series Streaming CMS designed for speed, elegance, and a premium user experience.
 
 
 
-# 🎬 StreamX - Premium Movie & Web Series CMS
+# 🎬 Roseflix - Premium Movie & Web Series CMS
 
-StreamX ek advanced, lightweight aur fully mobile-responsive entertainment platform hai. Ise specifically fast loading aur premium user experience ke liye design kiya gaya hai. Isme aap movies aur web series ko seamlessly manage aur stream kar sakte hain.
+Roseflix ek advanced, lightweight aur fully mobile-responsive entertainment platform hai. Ise specifically fast loading aur premium user experience ke liye design kiya gaya hai. Isme aap movies aur web series ko seamlessly manage aur stream kar sakte hain.
 
-🌐 **Live Demo:** [toolsmax.site/streamx/index.php](https://toolsmax.site/streamx/index.php)
+🌐 **Live Demo:** [toolsmax.site/Roseflix/index.php](https://toolsmax.site/Roseflix/index.php)
 
 
-🌐 **Live Admin Panel Demo:** [toolsmax.site/streamx/admin.php](https://toolsmax.site/streamx/admin.php)
+🌐 **Live Admin Panel Demo:** [toolsmax.site/Roseflix/admin.php](https://toolsmax.site/Roseflix/admin.php)
 ---
 
 ## 🌟 Key Features
@@ -20,7 +20,7 @@ StreamX ek advanced, lightweight aur fully mobile-responsive entertainment platf
 - **Ultra Responsive:** Mobile, Tablet aur Desktop par perfectly optimize.
 - **Dynamic Content Grid:** Movies aur Series ke liye clean aur attractive layout.
 
-### 🛠️ Advanced Admin Control (StreamX Control)
+### 🛠️ Advanced Admin Control (Roseflix Control)
 - **All-in-One Dashboard:** Movies aur Series ko add/edit/delete karne ke liye simple interface.
 - **Smart Search in Admin:** Badi lists mein se movies ko turant find karne ke liye real-time search.
 - **Season & Episode Manager:** Web series ke multiple seasons aur episodes ko manage karna ab ekdum aasan.
