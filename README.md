@@ -7,10 +7,10 @@
 
 Roseflix ek advanced, lightweight aur fully mobile-responsive entertainment platform hai. Ise specifically fast loading aur premium user experience ke liye design kiya gaya hai. Isme aap movies aur web series ko seamlessly manage aur stream kar sakte hain.
 
-🌐 **Live Demo:** [toolsmax.site/Roseflix/index.php](https://toolsmax.site/Roseflix/index.php)
+🌐 **User Panel Roseflix:** [toolsmax.site/Roseflix/index.php](https://toolsmax.site/Roseflix/index.php)
 
 
-🌐 **Live Admin Panel Demo:** [toolsmax.site/Roseflix/admin.php](https://toolsmax.site/Roseflix/admin.php)
+🌐 **Live Admin Panel Roseflix:** [toolsmax.site/Roseflix/admin.php](https://toolsmax.site/Roseflix/admin.php)
 ---
 
 ## 🌟 Key Features
