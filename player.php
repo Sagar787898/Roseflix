@@ -12,7 +12,7 @@ if (empty($stream_url)) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>StreamX | JW Player</title>
+    <title>Roseflix | JW Player</title>
     
     <script src="https://ssl.p.jwpcdn.com/player/v/8.22.0/jwplayer.js"></script>
 
@@ -95,7 +95,7 @@ if (empty($stream_url)) {
             autostart: true,
             cast: {}, // Chromecast support
             
-            // Custom Theme (StreamX Style)
+            // Custom Theme (Roseflix Style)
             skin: {
                 name: "glow",
                 active: "#e50914", // Netflix Red
